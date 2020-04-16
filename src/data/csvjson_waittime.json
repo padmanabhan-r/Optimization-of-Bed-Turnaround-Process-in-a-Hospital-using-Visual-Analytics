@@ -1,0 +1,30 @@
+[
+  {
+    "Date": "2019-05-01",
+    "AvgWaitTime": 45
+  },
+  {
+    "Date": "2019-05-02",
+    "AvgWaitTime": 60
+  },
+  {
+    "Date": "2019-05-03",
+    "AvgWaitTime": 30
+  },
+  {
+    "Date": "2019-05-04",
+    "AvgWaitTime": 45
+  },
+  {
+    "Date": "2019-05-05",
+    "AvgWaitTime": 20
+  },
+  {
+    "Date": "2019-05-06",
+    "AvgWaitTime": 50
+  },
+  {
+    "Date": "2019-05-07",
+    "AvgWaitTime": 55
+  }
+]

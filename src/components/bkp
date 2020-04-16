@@ -1,0 +1,16 @@
+               <React.Fragment>
+                        {/* <div
+                            className="timeseries-header fadeInUp"
+                            style={{ animationDelay: '1.3s' }}
+                        >
+                            <h2>Today's Summary - All Units</h2>
+                        </div>
+                        <ADTChart /> */}
+
+                        <div
+                            className="timeseries-header fadeInUp"
+                            style={{ animationDelay: '1.3s' }}
+                        >
+                            <h2>Recent Summary - All Units</h2>
+                        </div>
+                    </React.Fragment>
