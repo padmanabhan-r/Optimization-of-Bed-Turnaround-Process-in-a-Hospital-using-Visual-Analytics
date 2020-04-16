@@ -3,7 +3,7 @@ IAT 814 - Final Project - Hospital Bed Management
 
 
 <p align="center">
-<img src="https://imgur.com/kYdbxDQ" width="50%">
+<img src="https://i.imgur.com/kYdbxDQ.png" width="50%">
 </p>
 
 
