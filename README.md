@@ -6,7 +6,10 @@ IAT 814 - Final Project - Hospital Bed Management
 <img src="https://i.imgur.com/kYdbxDQ.png" width="50%">
 </p>
 
-
+<p align="center">
+  View our <a href="https://iathospdashboard.netlify.app/">dashboard</a>.
+ </p>
+ 
 ## Setup
 ```
 Install Node.js
