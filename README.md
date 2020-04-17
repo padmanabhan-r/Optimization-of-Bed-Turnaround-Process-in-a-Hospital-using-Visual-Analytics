@@ -1,5 +1,4 @@
-# iathospdashboard
-IAT 814 - Final Project - Hospital Bed Management
+# IAT 814 - Final Project - Hospital Bed Management
 
 
 <p align="center">
