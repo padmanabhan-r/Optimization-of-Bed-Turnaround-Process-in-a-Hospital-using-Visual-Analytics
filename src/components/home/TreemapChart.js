@@ -33,7 +33,7 @@ class TreemapChart extends Component {
 
     var margin = { top: 20, right: 20, bottom: 20, left: 20 },
       width = 490 - margin.left - margin.right,
-      height = 430 - margin.top - margin.bottom;
+      height = 425 - margin.top - margin.bottom;
 
       // document.getElementById(this.myRef.current).innerHTML="";
     var svg = d3.select(this.myRef.current);

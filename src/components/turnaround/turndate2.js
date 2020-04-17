@@ -13,7 +13,7 @@ class TurnDate extends PureComponent {
             <div className="fadeInUp raisedbox" style={{ animationDelay: '1.3s' }}>
                 <BarChart
                     width={470}
-                    height={210}
+                    height={200}
                     data={data}
                     margin={{
                         top: 20, right: 30, left: 20, bottom: 5, paddingRight:100
@@ -38,7 +38,7 @@ class TurnDate extends PureComponent {
                         cursor={{ strokeDasharray: '3 3' }}
                         wrapperStyle={{ zIndex: 100, fontSize: '12px', fontFamily: 'archia' }}
                     />
-                    <Brush dataKey="date" height={25} stroke="#2E3B55" />
+                    <Brush dataKey="date" height={30} stroke="#2E3B55" />
 
                     <Bar dataKey="1N" stackId="a" fill="#402D54" />
                     <Bar dataKey="1W" stackId="a" fill="#fa9fb5" />
